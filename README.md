@@ -34,7 +34,7 @@ To clone the repository to your desktop, follow these steps:
    cd ~/Desktop
    ```
 
-3. Clone the repository by running:
+3. Clone the repository to your desktop by running:
 
    ```sh
    gh repo clone renderedghost/sample-data
@@ -79,8 +79,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 ### Naming Conventions
 
-- **Text Files**: Use descriptive names with lowercase letters and hyphens for spaces (e.g., `submission--abstract.txt`).
-- **Image Folders**: Name folders descriptively, reflecting their content, using camelCase if necessary (e.g., `conferenceArt`).
+- **Text Files**: Use descriptive names in , using **kebab--case** if necessary (e.g., `submission--abstract.txt`).
+- **Image Folders**: Name folders descriptively, reflecting their content, using **kebab--case** if necessary (e.g., `event--poster/`).
 
 ## Supplementary Notes
 
@@ -88,9 +88,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 To use the assets in Figma with the Content Reel plugin:
 
-1. **Install Content Reel**: Open Figma, go to the Community tab, search for "Content Reel" by Microsoft, and install the plugin.
+1. **Install Content Reel**: Open Figma, go to the Community tab, search for ["Content Reel" by Microsoft](https://www.figma.com/community/plugin/731627216655469013), and install the plugin.
 2. **Add Assets to Content Reel**:
+   > Read [Content Reel documentation](https://contentreel.design/) to load content to Figma.
    - For images: Drag and drop image files from your local `sample-data` folder into the Content Reel panel in Figma.
    - For text: Open a text file, copy its content, and then paste it into the Content Reel text section.
-
 3. **Apply Assets**: Select a frame or text element in your Figma file, then apply the desired asset from the Content Reel panel.
