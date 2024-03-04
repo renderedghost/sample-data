@@ -1,34 +1,34 @@
-[CMA] Committee on Minority Affairs
-[AGFD] Division of Agricultural and Food Chemistry
-[ANYL] Division of Analytical Chemistry
-[BIOT] Division of Biochemical Technology
-[BIOL] Division of Biological Chemistry
-[BMGT] Division of Business Development & Management
-[CARB] Division of Carbohydrate Chemistry
-[CATL] Division of Catalysis Science & Technology
-[CELL] Division of Cellulose and Renewable Materials
-[CHED] Division of Chemical Education
-[CHAS] Division of Chemical Health & Safety
-[CINF] Division of Chemical Information
-[CHAL] Division of Chemistry & the Law
-[COLL] Division of Colloid & Surface Chemistry
-[COMP] Division of Computers in Chemistry
-[ENFL] Division of Energy and Fuels
-[ENVR] Division of Environmental Chemistry
-[FLUO] Division of Fluorine Chemistry
-[GEOC] Division of Geochemistry
-[I&EC] Division of Industrial and Engineering Chemistry
-[INOR] Division of Inorganic Chemistry
-[MEDI] Division of Medicinal Chemistry
-[NUCL] Division of Nuclear Chemistry and Technology
-[ORGN] Division of Organic Chemistry
-[PHYS] Division of Physical Chemistry
-[POLY] Division of Polymer Chemistry
-[PMSE] Division of Polymeric Materials Science and Engineering
-[PROF] Division of Professional Relations
-[SCHB] Division of Small Chemical Businesses
-[HIST] Division of the History of Chemistry
-[MPPG] Multidisciplinary Program Planning Group
-[SOCED] Society Committee on Education
-[WCC] Women Chemists Committee
-[YCC] Younger Chemists Committee
+Committee on Minority Affairs
+Division of Agricultural and Food Chemistry
+Division of Analytical Chemistry
+Division of Biochemical Technology
+Division of Biological Chemistry
+Division of Business Development & Management
+Division of Carbohydrate Chemistry
+Division of Catalysis Science & Technology
+Division of Cellulose and Renewable Materials
+Division of Chemical Education
+Division of Chemical Health & Safety
+Division of Chemical Information
+Division of Chemistry & the Law
+Division of Colloid & Surface Chemistry
+Division of Computers in Chemistry
+Division of Energy and Fuels
+Division of Environmental Chemistry
+Division of Fluorine Chemistry
+Division of Geochemistry
+Division of Industrial and Engineering Chemistry
+Division of Inorganic Chemistry
+Division of Medicinal Chemistry
+Division of Nuclear Chemistry and Technology
+Division of Organic Chemistry
+Division of Physical Chemistry
+Division of Polymer Chemistry
+Division of Polymeric Materials Science and Engineering
+Division of Professional Relations
+Division of Small Chemical Businesses
+Division of the History of Chemistry
+Multidisciplinary Program Planning Group
+Society Committee on Education
+Women Chemists Committee
+Younger Chemists Committee
