@@ -62,19 +62,6 @@ To clone the repository to your desktop, follow these steps:
 
 ## Notes
 
-### Loading Images and Text into Microsoft's Content Reel Plugin for Figma
-
-To use the assets in Figma with the Content Reel plugin:
-
-1. **Install Content Reel**
-
-   Install ["Content Reel" by Microsoft](https://www.figma.com/community/plugin/731627216655469013) to Figma.
-
-2. **Add Assets to Content Reel**:
-
-   > [!TIP]
-   > Read [Content Reel documentation](https://contentreel.design/) to load content to Figma.
-
-3. **Apply Assets**
-
-   Select a frame or text element in your Figma file, then apply the desired asset from the Content Reel panel.
+> [!NOTE]
+> Install ["Content Reel" by Microsoft](https://www.figma.com/community/plugin/731627216655469013) to Figma.
+> Read [Content Reel documentation](https://contentreel.design/) to load content to Figma.
