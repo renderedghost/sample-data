@@ -1,6 +1,6 @@
 # Sample Data for Prototypes
 
-This repository is a curated collection of sample images and text data organized in named folders, ideal for use in design prototypes.
+This repository is a curated collection of sample images and text data organized in named directorys, ideal for use in design prototypes.
 
 Whether you're a designer, developer, or content creator, this resource aims to provide a diverse set of assets to kickstart your creative projects.
 
@@ -34,13 +34,13 @@ To clone the repository to your desktop, follow these steps:
    cd ~/Desktop
    ```
 
-3. Clone the repository to your desktop by running:
+3. Clone the repository to this directory:
 
    ```sh
    gh repo clone renderedghost/sample-data
    ```
 
-4. After cloning, you will have a `sample-data` folder on your desktop containing all the assets.
+4. After cloning, you will have a `sample-data` folder containing all the assets.
 
 ## Contributing
 
@@ -61,12 +61,12 @@ Contributions are what make the open-source community such an amazing place to l
    git checkout -b feature/AmazingFeature
    ```
 
-4. **Make Changes**: Add or modify the sample data. Please ensure text files are named meaningfully following the existing naming convention (e.g., `event--name.txt` for event names). For folders containing images, name them descriptively to reflect the contained images.
+4. **Make Changes**: Add or modify the sample data. Please ensure text files are named meaningfully following the existing naming convention (e.g., `event--name.txt` for event names). For directorys containing images, name them descriptively to reflect the contained images.
 5. **Commit Your Changes**: After making changes, stage your changes and commit them with a clear commit message:
 
    ```sh
    git add .
-   git commit -m "Add some AmazingFeature"
+   git commit -m "Add some Amazing Features"
    ```
 
 6. **Push to the Branch**: Push your changes using:
@@ -80,7 +80,7 @@ Contributions are what make the open-source community such an amazing place to l
 ### Naming Conventions
 
 - **Text Files**: Use descriptive names in , using **kebab--case** if necessary (e.g., `submission--abstract.txt`).
-- **Image Folders**: Name folders descriptively, reflecting their content, using **kebab--case** if necessary (e.g., `event--poster/`).
+- **Image directorys**: Name directorys descriptively, reflecting their content, using **kebab--case** if necessary (e.g., `event--poster/`).
 
 ## Supplementary Notes
 
@@ -91,6 +91,6 @@ To use the assets in Figma with the Content Reel plugin:
 1. **Install Content Reel**: Open Figma, go to the Community tab, search for ["Content Reel" by Microsoft](https://www.figma.com/community/plugin/731627216655469013), and install the plugin.
 2. **Add Assets to Content Reel**:
    > Read [Content Reel documentation](https://contentreel.design/) to load content to Figma.
-   - For images: Drag and drop image files from your local `sample-data` folder into the Content Reel panel in Figma.
+   - For images: Drag and drop image files from your local `sample-data` directory into the Content Reel panel in Figma.
    - For text: Open a text file, copy its content, and then paste it into the Content Reel text section.
 3. **Apply Assets**: Select a frame or text element in your Figma file, then apply the desired asset from the Content Reel panel.
