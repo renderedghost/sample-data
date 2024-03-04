@@ -29,17 +29,18 @@ If not, you can install it by following these steps:
 
 ### Installation
 
+> [!NOTE]
+   > You can install this anywhere.
+
 To clone the repository to your desktop, follow these steps:
 
 1. Open the Terminal.
+
 2. Change the current working directory to the location where you want the cloned directory.
 
    ```sh
    cd ~/Desktop
    ```
-
-   > [!NOTE]
-   > You can install this anywhere.
 
 3. Clone the repository to this directory:
 
